@@ -1,0 +1,10 @@
+export { default as Travel } from './Travel';
+export { default as Food } from './Food';
+export { default as HomeAppliances } from './HomeAppliances';
+export { default as Electronics } from './Electronics';
+export { default as Properties } from './Properties';
+export { default as Computers } from './Computers';
+export { default as Mobile } from './Mobile';
+export { default as HomeServices } from './HomeServices';
+export { default as Beauty } from './Beauty';
+export { default as Clothing } from './Clothing';
